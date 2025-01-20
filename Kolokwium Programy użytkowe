@@ -2,7 +2,7 @@ Zadanie 1
 // Obliczanie ctg(5/12)
 x = 5/12;
 result_a = 1/tan(x);
-result_as
+result_a
 Zadanie 2
 A = [3, -2, 3; -2, 3, 8; 6, 4, 0];
 result_b = inv(A);
